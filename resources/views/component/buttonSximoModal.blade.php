@@ -1,0 +1,1 @@
+<a href="javascript://ajax" onclick="SximoModal('{{ $url }}', '{{ $title }}')" class="tips btn btn-{{ $color }} btn-xs  " title="{{ $btn_title }}"><i class="{{ $icon }}"></i></a>
